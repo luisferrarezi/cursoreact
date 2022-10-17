@@ -1,0 +1,4 @@
+1 - Instalar o Nodejs mais recente.
+2 - No terminal
+    npm init
+    npx create-react-app nomeprojeto
