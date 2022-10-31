@@ -10,7 +10,7 @@ Rápida descrição do objetivo de fazer esse projeto
 | :fire: Desafio     | 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhEdX4YSvHzgGeQbjJ80NmKD2O9A9HicpMgg&usqp=CAU#vitrinedev)
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--50wZvNu6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/1wwdyw5de8avrdkgtz5n.png#vitrinedev)
 
 ## Detalhes do projeto
 
